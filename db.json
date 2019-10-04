@@ -1,6 +1,6 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "naziv": [
+    { "id": 1, "odrediste": "Dubai", "cijena": 1000 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
