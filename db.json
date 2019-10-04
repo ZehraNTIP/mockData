@@ -1,6 +1,11 @@
 {
-  "naziv": [
-    { "id": 1, "odrediste": "Dubai", "cijena": 1000 }
+  "putovanja": [
+    { "id": 1, "odrediste": "Dubai", "cijena": 1000 },
+    { "id": 2, "odrediste": "Milano", "cijena": 600 },
+    { "id": 3, "odrediste": "Moskva", "cijena": 700 },
+    { "id": 4, "odrediste": "Dubai", "cijena": 400 },
+    { "id": 5, "odrediste": "Sejseli", "cijena": 1200 },
+    { "id": 6, "odrediste": "Atina", "cijena": 650 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
