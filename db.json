@@ -8,11 +8,11 @@
     { "id": 6, "odrediste": "Atina", "cijena": 650, "brojDana": 6, "datumPolaska": "25.10.2019." }
   ],
   "opisPutovanja": [
-    { "id": 1, "opis": "Dubai" },
-    { "id": 2, "opis": "Dubai" },
-    { "id": 3, "opis": "Moskva"},
-    { "id": 4, "opis": "Moskva"},
-    { "id": 5, "opis": "Sejseli"},
+    { "id": 1, "opis": "Istanbul je jedini grad na dva kontinenta. I to je dovoljan razlog da ga posjetite. A tih razloga ima još. Osnovan oko 1000. godine prije Krista, iz Bizantskog carstva niknuo je veličanstven grad Konstantinopol, a poslije otomanskog osvajanja grada, zadržao je svoje važno mjesto u srcu imperija. Bio je glavni grad Turske sve do 1923. godine, kada je osnovana Republika Turska i kada je centar pšolitičke moći postala Anakara. Sedam godina kasnije preimenovan je u Istanbul. Grad s 15 milijuna stanovnika pun je fascinantnih ostataka iz svoje duge i bogate povijesti, s lokalitetima koji zadivljuju i one zahtjevne." },
+    { "id": 2, "opis": "Upravo to Dubai danas i predstavlja, turistički ali i poslovni centar regiona i svijeta. Koristeći prednosti svoje pozicije i povezujući Europu i Daleki Istok, kao i pogodnostima koje pruža za poslovanje, Dubai se nametnuo kao jedan od najvažnijh poslovnih centara svijeta. Ali grad je ujedno i jedna od najposjećenijih turističkih destinacija. Sa sjajnim shopping centrima, nevjerovatnim luksuzom, fantastičnim hotelima, spektakularnim građevinama, prelijepim plažama, kulturnim i sportskim centrima i dešavanjima i sve to smješteno u srcu pustinje, Dubai zaista nudi svojim posjetiteljima jedinstveno i nezaboravno iskustvo! Pet je ključnih sastojaka na čemu se zasniva ponuda grada : sunce, shopping, more, sport, sigurnost!" },
+    { "id": 3, "opis": "Moskva je glavni grad Rusije, a nalazi se na krajnjem zapadu zemlje na rijeci Moskvi. Ima populaciju od 11,273,400 (od 2004.), iako je veliki broj i stalnih i privremenih ilegalnih migranata, te je u tijeku spajanje predgrađa,koja će podići neslužbenu populaciju na oko 13,5 milijuna ljudi - oko jedne desetine cijelog ruskog stanovništva."},
+    { "id": 4, "opis": "Magija Vječnog grada će osvojiti svakoga. Nije ni čudo što ćete čuti na svakom koraku Svi putevi vode u Rim!, zaista je tako. Bilo da ste u Rimu tri dana ili tri nedelje, uvijek ćete željeti još! Grad sa preko 900 crkava, preko 280 česmi/fonatana jednostavno zrači posebnošću još od davnina."},
+    { "id": 5, "opis": "Nakon Hawaiia, Maldiva, Balia, Madagaskara, Kariba, Zanzibara došao je red na Sejšele. Teško pronaći odgovarajući pridjev jer – prelijepo, rajsko, prekrasno, savršeno – uopće ne zvuči dovoljno originalno za njegov opis."},
     { "id": 6, "opis": "Dom prvih savremenih olimpijskih igara, sedište jednog od najznačajnijih antičkih gradova - država, grad istorije i kulture, prijestonica moderne Grčke, boginja mudrosti i rata i sinonim za turizam – Atina."}
   ]
 }
