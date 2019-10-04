@@ -6,5 +6,5 @@
     { "id": 4, "odrediste": "Dubai", "cijena": 400, "brojDana": 4, "datumPolaska": "25.10.2019." },
     { "id": 5, "odrediste": "Sejseli", "cijena": 1200, "brojDana": 7, "datumPolaska": "25.10.2019." },
     { "id": 6, "odrediste": "Atina", "cijena": 650, "brojDana": 6, "datumPolaska": "25.10.2019." }
-  ],
+  ]
 }
