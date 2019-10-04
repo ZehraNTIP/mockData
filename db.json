@@ -1,10 +1,18 @@
 {
   "putovanja": [
-    { "id": 1, "odrediste": "Dubai", "cijena": 1000, "brojDana": 6, "datumPolaska": "25.10.2019." },
-    { "id": 2, "odrediste": "Milano", "cijena": 600, "brojDana": 3, "datumPolaska": "25.10.2019." },
-    { "id": 3, "odrediste": "Moskva", "cijena": 700, "brojDana": 7, "datumPolaska": "25.10.2019." },
-    { "id": 4, "odrediste": "Dubai", "cijena": 400, "brojDana": 4, "datumPolaska": "25.10.2019." },
+    { "id": 1, "odrediste": "Istanbul", "cijena": 1000, "brojDana": 6, "datumPolaska": "25.10.2019." },
+    { "id": 2, "odrediste": "Moskva", "cijena": 600, "brojDana": 3, "datumPolaska": "25.10.2019." },
+    { "id": 3, "odrediste": "Milano", "cijena": 700, "brojDana": 7, "datumPolaska": "25.10.2019." },
+    { "id": 4, "odrediste": "Rim", "cijena": 400, "brojDana": 4, "datumPolaska": "25.10.2019." },
     { "id": 5, "odrediste": "Sejseli", "cijena": 1200, "brojDana": 7, "datumPolaska": "25.10.2019." },
     { "id": 6, "odrediste": "Atina", "cijena": 650, "brojDana": 6, "datumPolaska": "25.10.2019." }
+  ]
+  "opisPutovanja": [
+    { "id": 1, "opis": "Dubai" },
+    { "id": 2, "opis": "Dubai" },
+    { "id": 3, "opis": "Moskva"},
+    { "id": 4, "opis": "Moskva"},
+    { "id": 5, "opis": "Sejseli"},
+    { "id": 6, "opis": "Dom prvih savremenih olimpijskih igara, sedište jednog od najznačajnijih antičkih gradova - država, grad istorije i kulture, prijestonica moderne Grčke, boginja mudrosti i rata i sinonim za turizam – Atina."}
   ]
 }
