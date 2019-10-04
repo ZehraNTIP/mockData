@@ -1,9 +1,9 @@
 {
   "putovanja": [
     { "id": 1, "odrediste": "Istanbul", "cijena": 1000, "brojDana": 6, "datumPolaska": "25.10.2019." },
-    { "id": 2, "odrediste": "Moskva", "cijena": 600, "brojDana": 3, "datumPolaska": "25.10.2019." },
-    { "id": 3, "odrediste": "Milano", "cijena": 700, "brojDana": 7, "datumPolaska": "25.10.2019." },
-    { "id": 4, "odrediste": "Rim", "cijena": 400, "brojDana": 4, "datumPolaska": "25.10.2019." },
+    { "id": 2, "odrediste": "Moskva", "cijena": 600, "brojDana": 3, "datumPolaska": "11.11.2019." },
+    { "id": 3, "odrediste": "Milano", "cijena": 700, "brojDana": 7, "datumPolaska": "18.12.2019." },
+    { "id": 4, "odrediste": "Rim", "cijena": 400, "brojDana": 4, "datumPolaska": "01.01.2020." },
     { "id": 5, "odrediste": "Sejseli", "cijena": 1200, "brojDana": 7, "datumPolaska": "25.10.2019." },
     { "id": 6, "odrediste": "Atina", "cijena": 650, "brojDana": 6, "datumPolaska": "25.10.2019." }
   ],
